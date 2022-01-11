@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "pname": "samsung",
+      "price": "300000",
+      "quantity": "6",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vYmlsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 1
+    },
+    {
+      "pname": "12 max pro",
+      "price": "59999",
+      "quantity": "1",
+      "image": "https://images.unsplash.com/photo-1510878933023-e2e2e3942fb0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 2
+    },
+    {
+      "pname": "pixel",
+      "price": "180000",
+      "quantity": "1",
+      "image": "https://media.wired.com/photos/5fa08e3aa75d5576fa3a5f24/1:1/w_1134,h_1134,c_limit/Gear-OnePlus-8T-front-and-back-SOURCE-OnePlus.jpg",
+      "id": 3
+    }
+  ]
+}
